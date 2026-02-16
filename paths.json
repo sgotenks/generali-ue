@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/generali/language-masters/en:/",
-    "/content/generali/language-masters/en/:/en/",
-    "/content/generali/language-masters/fr/:/fr/",
-    "/content/generali/language-masters/fr:/fr",
-    "/content/generali/language-masters/es/:/es/",
-    "/content/generali/language-masters/es:/es",
-    "/content/generali/language-masters/ja/:/ja/",
-    "/content/generali/language-masters/ja:/ja",
-    "/content/generali/language-masters/de/:/de/",
-    "/content/generali/language-masters/de:/de",
-    "/content/generali/configuration:/.helix/config.json",
-    "/content/generali/metadata:/metadata.json",
-    "/content/generali/redirects:/redirects.json",
-    "/content/generali/placeholders:/placeholders.json"
+    "/content/generali1/language-masters/en:/",
+    "/content/generali1/language-masters/en/:/en/",
+    "/content/generali1/language-masters/fr/:/fr/",
+    "/content/generali1/language-masters/fr:/fr",
+    "/content/generali1/language-masters/es/:/es/",
+    "/content/generali1/language-masters/es:/es",
+    "/content/generali1/language-masters/ja/:/ja/",
+    "/content/generali1/language-masters/ja:/ja",
+    "/content/generali1/language-masters/de/:/de/",
+    "/content/generali1/language-masters/de:/de",
+    "/content/generali1/configuration:/.helix/config.json",
+    "/content/generali1/metadata:/metadata.json",
+    "/content/generali1/redirects:/redirects.json",
+    "/content/generali1/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/generali/",
-    "/content/dam/generali/"
+    "/content/generali1/",
+    "/content/dam/generali1/"
   ]
 }
