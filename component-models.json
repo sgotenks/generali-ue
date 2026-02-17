@@ -59,6 +59,10 @@
             {
               "name": "WeHealthcare Theme",
               "value": "wehealthcare-theme"
+            },
+            {
+              "name": "Generali Theme",
+              "value": "generali-theme"
             }
           ]
       },
