@@ -1012,7 +1012,7 @@
             "children": [
               {
                 "name": "Left",
-                "value": ""
+                "value": "align-right"
               },
               {
                 "name": "Right",
