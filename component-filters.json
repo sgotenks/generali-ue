@@ -13,6 +13,7 @@
       "button",
       "cards",
       "carousel",
+      "slider",
       "columns",
       "contentfragment",
       "dm-template",
@@ -51,6 +52,10 @@
     "components": [
       "card"
     ]
+  },
+   {
+    "id": "slider",
+    "components": ["slider-item"]
   },
   {
     "id": "columns",
