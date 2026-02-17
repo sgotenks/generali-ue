@@ -344,6 +344,14 @@ body.green-theme {
   --main-accent-color: #00c4ff;
   --nav-text-color:#000000;
 }
+
+.generali-theme {
+  --main-accent-color: #d5281b;
+  --nav-text-color:#ffffff;
+  --main-bg-color: #000000;
+}
+
+
 /*brand header footer brand themes*/
 body header .nav-wrapper{
   background-color: var(--nav-background-color);
@@ -368,6 +376,12 @@ body.blue-theme footer {
 body.green-theme header .nav-wrapper,
 body.green-theme footer {
   background-color: var(--main-accent-color);
+  color: var(--text-light);
+}
+
+body.generali-theme header .nav-wrapper,
+body.generali-theme footer {
+  background-color: var(--main-bg-color);
   color: var(--text-light);
 }
 
