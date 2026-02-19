@@ -1347,6 +1347,46 @@
         ]
       },
       {
+        "id": "events",
+        "fields": [
+          {
+            "component": "aem-tag",
+            "name": "tags",
+            "value": "",
+            "label": "Tag",
+            "valueType": "string",
+            "rootPath": "/content/cq:tags"
+          },
+          {
+            "component": "text-input",
+            "name": "variation",
+            "value": "master",
+            "label": "Variation",
+            "valueType": "string"
+          }
+        ]
+      },
+      {
+        "id": "faqs",
+        "fields": [
+          {
+            "component": "aem-tag",
+            "name": "tags",
+            "value": "transactions",
+            "label": "Tag",
+            "valueType": "string",
+            "rootPath": "/content/cq:tags/generali"
+          },
+          {
+            "component": "text-input",
+            "name": "variation",
+            "value": "master",
+            "label": "Variation",
+            "valueType": "string"
+          }
+        ]
+      },
+      {
         "component": "container",
         "label": "Video Properties",
         "name": "videoProperties",
